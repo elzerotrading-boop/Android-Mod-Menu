@@ -16,7 +16,7 @@
 #define LOGE(...) __android_log_print(ANDROID_LOG_ERROR, "Mod_Menu", __VA_ARGS__)
 
 // =====================================================
-// Global State
+// Global Statee
 // =====================================================
 static std::string itemNameToSpawn = "Level Up";
 static volatile bool triggerSpawn = false;
